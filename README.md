@@ -13,7 +13,6 @@
 - ⚡ Fun fact: ...
 -->
 
-![badge](https://img.sheids.io/badge/MorningSky%20cptumk%20Github-orange)
 ### :octocat: Hi I'm Morning Sky 🐤
 
 - 🌱 I’m currently learning ...
